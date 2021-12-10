@@ -1,0 +1,28 @@
+C:\Users\lenovo\source\repos\Bertani\Bertani\bin\Debug\Bertani.exe.config
+C:\Users\lenovo\source\repos\Bertani\Bertani\bin\Debug\Bertani.exe
+C:\Users\lenovo\source\repos\Bertani\Bertani\bin\Debug\Bertani.pdb
+C:\Users\lenovo\source\repos\Bertani\Bertani\obj\Debug\Bertani.Form1.resources
+C:\Users\lenovo\source\repos\Bertani\Bertani\obj\Debug\Bertani.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Bertani\Bertani\obj\Debug\Bertani.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Bertani\Bertani\obj\Debug\Bertani.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Bertani\Bertani\obj\Debug\Bertani.exe
+C:\Users\lenovo\source\repos\Bertani\Bertani\obj\Debug\Bertani.pdb
+C:\Users\lenovo\source\repos\Bertani\Bertani\obj\Debug\Bertani.Home.resources
+C:\Users\lenovo\source\repos\Bertani\Bertani\obj\Debug\Bertani.TipsAndTrick.resources
+C:\Users\lenovo\source\repos\Bertani\Bertani\obj\Debug\Bertani.csprojAssemblyReference.cache
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\bin\Debug\Bertani.exe.config
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\bin\Debug\Bertani.exe
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\bin\Debug\Bertani.pdb
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.csprojAssemblyReference.cache
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.Home.resources
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.Properties.Resources.resources
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.TipsAndTrick.resources
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.csproj.GenerateResource.cache
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.csproj.CoreCompileInputs.cache
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.exe
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.pdb
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.formMain.resources
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.HargaPasar.resources
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.Catatan.resources
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.LahankuTambahForm.resources
+D:\Documents\UGM\Semester 2\Tugas\PBO\Bertani\Bertani\obj\Debug\Bertani.TentangKami.resources
